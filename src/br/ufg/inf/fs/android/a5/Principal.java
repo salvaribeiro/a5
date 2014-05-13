@@ -2,8 +2,6 @@ package br.ufg.inf.fs.android.a5;
 
 import android.app.Activity;
 import android.os.Bundle;
-import android.util.Log;
-import android.view.View;
 import android.widget.TextView;
 
 public class Principal extends Activity {
